@@ -22,7 +22,7 @@ mosquitto_sub -h [broker's IP] -t [your topic]
 ```
 4) Or you can use the [client subscriber example](https://github.com/debihiga/mqtt_paho_cpp_subscriber)!
 
-5) Open this project in MQTT
+5) Open this project in QT
   - Change the IP in ADDRESS to your broker's IP (main.cpp)
   - Check the topic in TOPIC (main.cpp)
   - Check the message to send.
